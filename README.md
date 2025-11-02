@@ -4,9 +4,9 @@
 <img src="/images/1.jpg" alt="description" style="width:100%; height:auto;" />
 
 
- ## -MACHINE LEARNING LIFECYCLE:
+ ## -LIFECYCLE:
  <img src="/images/2.jpeg" alt="description" style="width:100%; height:auto;" />
 
 
-## -MACHINE LEARNING LIFECYCLE:
+## -TYPES :
  <img src="/images/23.png" alt="description" style="width:100%; height:auto;" />

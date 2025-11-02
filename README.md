@@ -1,2 +1,3 @@
 # Machine_Learning_Projects
-7 Semester 
+ 
+<img src="/images/1.jpg" alt="description" style="width:100%; height:auto;" />

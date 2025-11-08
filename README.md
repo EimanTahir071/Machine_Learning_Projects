@@ -3,7 +3,6 @@
  ## -INTRODUCTION:
 <img src="/images/1.jpg" alt="description" style="width:100%; height:auto;" />
 
-
  ## -LIFECYCLE:
  <img src="/images/2.jpeg" alt="description" style="width:100%; height:auto;" />
 

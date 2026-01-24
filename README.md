@@ -9,3 +9,9 @@
 
 ## -TYPES :
  <img src="/images/23.png" alt="description" style="width:100%; height:auto;" />
+
+ ## 1-General Health Query ChatBot
+ ## 2-IRIS DATASET
+ ## 3-Predict Future Stock Prices
+
+ 
